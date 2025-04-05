@@ -28,5 +28,8 @@ https://quartz.jzhao.xyz/hosting
 Sau này sử dụng thì chỉ cần
 Vào thư mục 
 
+
+
+cd /c/Users/vinhn/Quartz01/quartz
 npx quartz build --serve
 npx quartz sync --no-pull
